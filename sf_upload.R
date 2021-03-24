@@ -1,4 +1,4 @@
-### This script reads .sf files from analysis with salmon and joins them into single dataframe
+### This script reads .sf files from salmon output and joins them into single dataframe
 
 library(tidyverse)
 setwd('~/rnaseq/')
